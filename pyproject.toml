@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "simple_mathlib"
+version = "0.1.0"
+description = "An amazing, and really simple to use Python maths library, to solve equations, questions and more."
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

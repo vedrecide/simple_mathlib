@@ -1,2 +1,3 @@
-# simple_mathlib
-A really simple Python Maths library to solve basic questions
+# Simple Mathlib
+
+An amazing, and really simple to use Python maths library, to solve equations, questions and more.
